@@ -15,7 +15,7 @@ This calculator offers six core tools:
 | 3️⃣     | Degree-Radian Converter        | Converts between degrees and radians.                                         |
 | 4️⃣     | Factorial Tool                 | Computes factorials of non-negative integers.                                 |
 | 5️⃣     | Algebraic Equation Solver      | Solves single-variable algebraic equations.                                   |
-| 6️⃣     | Physics Toolset                | Runs physics-related computations via `physic.py`.                            |
+| 6️⃣     | ~~Physics Toolset~~            | Runs physics-related computations via `physic.py`. (Release Date: 11/01/2025  |
 
 ---
 
@@ -45,7 +45,7 @@ Make sure you have the following Python packages installed:
 - `math` (standard library) — https://docs.python.org/3/library/math.html
 - `sympy` — https://docs.sympy.org/latest/modules/solvers/solvers.html
 - `ast` (standard library) — https://docs.python.org/3/library/ast.html
-- `physic.py` — Custom module for physics computations
+~~- `physic.py` — Custom module for physics computations~~
 
 Install SymPy if needed:
 
@@ -56,7 +56,7 @@ pip install sympy
 ## 📦 File Structure
 
 calculator.py       # Main script with all tools  
-physic.py           # Physics toolbox (must be present in the same directory)  
+~~physic.py           # Physics toolbox (must be present in the same directory)~~
 
 ---
 
